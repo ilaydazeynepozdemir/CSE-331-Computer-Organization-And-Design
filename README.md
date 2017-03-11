@@ -1,2 +1,2 @@
 # CSE-331-Computer-Organization-And-Design
-CPU tasarımı
+Processor tasarımı
